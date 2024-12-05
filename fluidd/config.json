@@ -1,5 +1,5 @@
 {
-  "name": "Frigate proxy",
+  "name": "Fluidd proxy",
   "version": "0.0.1",
   "slug": "fluidd",
   "description": "Proxy for local Fluidd",
@@ -11,6 +11,6 @@
   "map": ["share"],
   "image": "left4taco/ha-fluidd-addon",
   "panel_icon": "mdi:cctv",
-  "panel_title": "Frigate",
+  "panel_title": "Fluidd",
   "panel_admin": true
 }
