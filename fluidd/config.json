@@ -1,0 +1,16 @@
+{
+  "name": "Frigate proxy",
+  "version": "0.0.1",
+  "slug": "fluidd",
+  "description": "Proxy for local Fluidd",
+  "arch": ["amd64"],
+  "url": "https://github.com/t0ny-peng/ha-fluidd-addon",
+  "startup": "application",
+  "boot": "auto",
+  "ingress": true,
+  "map": ["share"],
+  "image": "left4taco/ha-fluidd-addon",
+  "panel_icon": "mdi:cctv",
+  "panel_title": "Frigate",
+  "panel_admin": true
+}
